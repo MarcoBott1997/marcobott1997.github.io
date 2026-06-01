@@ -38,6 +38,7 @@ Communication skills
     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
   </tr>
 -->
+
 Computer skills
 ======
 <table style="width:35%; border: 1px solid black; border-collapse: collapse">
@@ -87,9 +88,15 @@ Computer skills
   </tr>
 </table>
  
-Exams
+Hard skills
 ======
-**MSc in Mathematical Engineering**
+
+**As a doctorate student in Systems Neuroscience 
+* fMRI data analysis
+* Applications of data science and ML algorithms to neuroscience
+* Prediction and interpretability of behavioral phenotypes through brain imaging
+  
+**As MSc in Mathematical Engineering**
 *	Numerical optimization for large scale problems and Stochastic Optimization
 *	Time-frequency and multiscale analysiS
 *	Stochastic processes
@@ -107,7 +114,7 @@ Exams
 * Bioinformatics
 * Discrete event models and systems
 
-Interest
+Interests
 ======
 * **Professional**: Neuroscience, Brain-computer Interfaces, Data Science, Machine Learning, Deep learning, Artificial Intelligence, Bioinformatic.
 *  **Personal**: Trekking, Cosplay, Boulder Climbing, Music. 
