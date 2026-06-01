@@ -23,6 +23,7 @@ Communication skills
 ======
 * Native language: Italian
 * Other languages: English C1, German B1
+
 <!---
 <table style="width:35%; border: 1px solid black; border-collapse: collapse">
  <tr>
@@ -90,7 +91,6 @@ Computer skills
  
 Hard skills
 ======
-
 **As a doctorate student in Systems Neuroscience** 
 * fMRI data analysis
 * Applications of data science and ML algorithms to neuroscience
