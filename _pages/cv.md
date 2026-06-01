@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Education
+Career
 ======
 * Doctoral Student at Technische Universität Dresden (March 2023 - Present)
 * Research associate at Technische Universität Dresden (May 2022 - Present)
