@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Career
 ======
 * Doctoral Student at Technische Universität Dresden (March 2023 - Present)
 * Research associate at Technische Universität Dresden (May 2022 - Present)
+  
 Education
 ======
 * M.Sc. in Mathematical Engineering, Politecnico di Torino, Thesis title: Study on the effects of children's screen time activity on their mental health and brain structure.
