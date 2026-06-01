@@ -91,7 +91,7 @@ Computer skills
 Hard skills
 ======
 
-**As a doctorate student in Systems Neuroscience 
+**As a doctorate student in Systems Neuroscience** 
 * fMRI data analysis
 * Applications of data science and ML algorithms to neuroscience
 * Prediction and interpretability of behavioral phenotypes through brain imaging
