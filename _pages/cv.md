@@ -8,11 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Education
+======
+* Doctoral Student at Technische Universität Dresden (March 2023 - Present)
+* Research associate at Technische Universität Dresden (May 2022 - Present)
 Education
 ======
 * M.Sc. in Mathematical Engineering, Politecnico di Torino, Thesis title: Study on the effects of children's screen time activity on their mental health and brain structure.
-* B.Sc. in Mathematics For Engineering, Politecnico di Torino, Thesis title: Modelli matematici del neuron firing: gli effetti di alcool e cannabidioli sull'attività neuronale.
+* B.Sc. in Mathematics for Engineering, Politecnico di Torino, Thesis title: Modelli matematici del neuron firing: gli effetti di alcool e cannabidioli sull'attività neuronale.
 
 Communication skills
 ======
