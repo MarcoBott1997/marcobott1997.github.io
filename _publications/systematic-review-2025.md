@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Systematic review of the literature linking resting-state fMRI functional connectivity to alcohol use disorder (39 studies), analysing patterns in methods and datasets used and deriving quantitative relevance maps showing associations recurring most frequently between connectivity and the disorder, both in whole-brain and seed-based analyses.'
 date: 2025-02-07
-venue: 'Proceedings of 14th International Conference on Bioinformatics and Computational Biology'
+venue: 'Human Brain Mapping, vol. 46, issue 2'
 paperurl: 'https://doi.org/10.1002/hbm.70156'
 citation: 'Marco Bottino, Natálie Bocková, Nico W. Poller, Michael N. Smolka, Justin Böhmer, Henrik Walter and Michael Marxen (2025). &quot; Relating Functional Connectivity and Alcohol Use Disorder: A Systematic Review and Derivation of Relevance Maps for Regions and Connections &quot; <i>Human Brain Mapping, vol. 46, issue 2</i>.'
 ---
