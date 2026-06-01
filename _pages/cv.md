@@ -17,26 +17,22 @@ Education
 Communication skills
 ======
 * Native language: Italian
-* Other languages: English
-<table style="width:35%; border: 1px solid black; border-collapse: collapse">
-  <tr>
-    <th style="border: 1px solid black; border-collapse: collapse">Speaking</th>
-    <th style="border: 1px solid black; border-collapse: collapse">Writing</th>
-    <th style="border: 1px solid black; border-collapse: collapse">Reading</th>
-    <th style="border: 1px solid black; border-collapse: collapse">Listening</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; border-collapse: collapse">B2</td>
-    <td style="border: 1px solid black; border-collapse: collapse">C1</td>
-    <td style="border: 1px solid black; border-collapse: collapse">C1</td>
-    <td style="border: 1px solid black; border-collapse: collapse">C1</td>
-  </tr>
-</table>
-
+* Other languages: English C1, German B1
+<> <table style="width:35%; border: 1px solid black; border-collapse: collapse">
+<>  <tr>
+<>     <th style="border: 1px solid black; border-collapse: collapse">Speaking</th>
+<>     <th style="border: 1px solid black; border-collapse: collapse">Writing</th>
+<>     <th style="border: 1px solid black; border-collapse: collapse">Reading</th>
+<>     <th style="border: 1px solid black; border-collapse: collapse">Listening</th>
+<>   </tr>
+<>   <tr>
+<>     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
+<>     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
+<>     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
+<>     <td style="border: 1px solid black; border-collapse: collapse">C1</td>
+<>   </tr>
 Computer skills
 ======
-* Native speaker: Italian
-* Other Language: English
 <table style="width:35%; border: 1px solid black; border-collapse: collapse">
   <tr>
     <th style="border: 1px solid black; border-collapse: collapse">Operating Systems</th>
